@@ -1,0 +1,10 @@
+name: Sammutin
+version: '${project.version}'
+main: me.mineservu.sammutin.Sammutin
+api-version: 1.19
+authors: [ Kebu ]
+description: Sammuttaa serverin tietyn ajan jalkeen
+commands:
+  lagaa:
+    description: Nakee milloin servu restarttaa.
+
