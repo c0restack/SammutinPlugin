@@ -82,10 +82,10 @@ public final class Sammutin extends JavaPlugin {
 
                 Player p = (Player) sender;
                 p.sendMessage(ChatColor.GREEN+"Servu restarttaa kellonaikoina:");
-                p.sendMessage(ChatColor.GREEN +"Klo: 10:30");
+                p.sendMessage(ChatColor.GREEN +"Klo: 08:30");
                 //p.sendMessage(ChatColor.GREEN +"Klo: 16:30");
                 //p.sendMessage(ChatColor.GREEN +"Klo: 22:30");
-                p.sendMessage(ChatColor.GREEN +"Klo: 04:30");
+                p.sendMessage(ChatColor.GREEN +"Klo: 02:30");
 
             }
 
