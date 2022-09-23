@@ -65,6 +65,7 @@ public final class Sammutin extends JavaPlugin {
                     for (Player p : Bukkit.getServer().getOnlinePlayers()) {
                         p.getWorld().playSound(p.getLocation(), Sound.ITEM_TRIDENT_RETURN, 1.0F, 1.0F);
                     }
+
                 }
         }
         }, 0, 60*1000);
